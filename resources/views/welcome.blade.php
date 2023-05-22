@@ -405,9 +405,7 @@
 </head>
 
 <body class="antialiased">
-    <div class="container d-flex justify-content-center align-items-center">
-        <h1>Hello Laravel!</h1>
-    </div>
+    <h1>Hello laravel</h1>
 </body>
 
 </html>
